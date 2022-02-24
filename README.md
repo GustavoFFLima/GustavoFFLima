@@ -13,6 +13,5 @@
   <a href="mailto:frazao39@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesar_vargas@id.uff.br"></a>  
   </p>
 </p>
-
 </p>
  
