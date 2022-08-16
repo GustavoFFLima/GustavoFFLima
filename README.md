@@ -16,14 +16,14 @@
 ![Gustavo_Frazao-contributions](https://activity-graph.herokuapp.com/graph?username=GustavoFFLima&theme=react-dark)
 <div align="center">
   <a href="https://github.com/GustavoFFLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagoidu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoidu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFFLima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFFLima&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
   <div> 
   <a href = "mailto:frazao39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
-  <a href="https://www.linkedin.com/in/marco-tulio-c-santiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-fernando-de-frazao-lima-680763140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
     <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
