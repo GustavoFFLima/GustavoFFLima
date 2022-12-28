@@ -22,6 +22,10 @@
   <a href="mailto:frazao39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/gustavo-fernando-de-frazao-lima-680763140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div> 
+<!--   https://github.com/iuricode/readme-template/blob/main/badges/badges.md
+   https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome
+   https://simpleicons.org/?q=typescript
+   https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
 <br />
 
 ### 🛠 Technologies, Languages and Tools:
